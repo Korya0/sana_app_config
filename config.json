@@ -1,10 +1,11 @@
 ﻿{
-  "latest_version": "0.0.0",
+  "latest_version": "3",
   "force_stop": false,
-  "show_banner": false,
+  "show_banner": true,
   "message": "",
-  "play_store_url": "https://apkpure.com/p/com.korya.sana"   
+  "play_store_url": "https://play.google.com/store/apps/details?id=com.sana.muslim.app"   
 }
+
 
 
 
